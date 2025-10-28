@@ -25,4 +25,4 @@ Kubernetes • Docker • Helm • ArgoCD • GitHub Actions • Prometheus • 
 4. Access app via Ingress: http://k8s-poc.local
 
 ## Author
-Your Name — Kubernetes & Cloud-Native Enthusiast
+Kumara Subramanian — Kubernetes & Cloud-Native Enthusiast
